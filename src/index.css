@@ -11,6 +11,7 @@ body{
 }
 
 nav{
+  width: 100%;
   display: flex;
   align-items: center;
   background-color: #151e2b;
@@ -19,18 +20,40 @@ nav{
   font-weight: 700;
 }
 
+
+
 .book-container {
+  width: 600px;
   display: grid;
   grid-template-columns: 1;
   gap: 2rem;
   justify-items: center;
-  margin: 10rem 0;
+  margin: 5rem auto;
 }
 
+
+/*FILTER*/
+.filter-container {
+  width: 100%;
+  background-color: #151e2b;
+}
+
+.filter {
+  background-color: transparent;
+  width: 100%;
+  outline: none;
+  border: none;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+/* Book Details */
 .book-details {
-  width: 600px;
+  width: 100%;
   display: flex;
-  gap:30px
+  gap:30px;
 }
 
 .book-rank {
@@ -68,7 +91,63 @@ nav{
 
 .book-rating-svg{
   width: 25px;
+  
+}
+
+footer{
+  background-color:#151e2b ;
+  padding:20px 5rem;
+  text-align: center;
+}
+.copyright{
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+/*  SCREENS 700PX BELOW  */
+
+@media(max-width:700px){
+  nav{
+    padding: 20px;
+  }
+  .book-container{
+    width: 500px;
+  }
+  .book-details{
+    display: grid;
+    justify-items: center;
+  }
+  .bookimg{
+    height: 600px;
+    width: 100%;
+  }
+
+  footer{
+    padding: 2rem 20px;
+  }
+ .copyright {
+    font-size: 10px;
+  }
 
 }
 
+/* SCREENS 600PX BELOW */
+@media(max-width:600px){
+  nav{
+    font-size: 15px;
+    padding: 20px;
+  }
+  .book-container{
+    width: 300px;
+  }
+  .book-details{
+    display: grid;
+    justify-items: center;
+  }
+  .bookimg{
+    height: 400px;
+    width: 100%;
+  }
+  
 
+}

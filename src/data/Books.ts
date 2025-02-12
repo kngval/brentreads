@@ -1,17 +1,12 @@
 import { BookEntity }  from "./BookEntity";
-import tltil from "../bookimg/the_last_time_i_lied.jpg";
-import tsp from "../bookimg/the_silent_patient.png";
-import tool from "../bookimg/the_only_one_left.jpg";
-import rps from "../bookimg/rock_paper_scissors.jpg"
-import tgl from "../bookimg/the_guest_list.jpg";
-export const booksArray: BookEntity[] = [
+export const books: BookEntity[] = [
   new BookEntity(
     "The Last Time I Lied",
     "Fifteen years ago, summer camper Emma Davis watched sleepily as her three cabin mates snuck out of their cabin in the dead of night. The last she--and anyone--saw of them was Vivian closing the cabin door behind her, hushing Emma with a finger pressed to her lips.",
     "Riley Sager",
     ["Mystery","Thriller"],
     5,
-    tltil
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511141004i/36626748.jpg"
   ),
   new BookEntity(
     "The Silent Patient",
@@ -19,7 +14,7 @@ export const booksArray: BookEntity[] = [
     "Alex Michaelides",
     ["Mystery","Thriller"],
     5,
-    tsp
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg"
   ),
   new BookEntity(
     "The Only One Left",
@@ -28,7 +23,7 @@ export const booksArray: BookEntity[] = [
     "Riley Sager",
     ["Mystery","Thriller"],
     5,
-    tool
+    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226.jpg"
   ),
   new BookEntity(
     "Rock Paper Scissors",
@@ -36,7 +31,7 @@ export const booksArray: BookEntity[] = [
     "Alice Feeney",
     ["Mystery","Thriller"],
     5,
-    rps
+    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612020952l/56269064.jpg"
   ),
   new BookEntity(
     "The Guest List",
@@ -44,7 +39,36 @@ export const booksArray: BookEntity[] = [
     "Lucy Foley",
     ["Mystery","Thriller"],
     5,
-    tgl
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591461181i/52656911.jpg"
   ),
+  new BookEntity(
+    "Gone Girl",
+    `Who are you?
+What have we done to each other?
+These are the questions Nick Dunne finds himself asking on the morning of his fifth wedding anniversary when his wife Amy suddenly disappears. The police suspect Nick. Amy's friends reveal that she was afraid of him, that she kept secrets from him. He swears it isn't true. A police examination of his computer shows strange searches. He says they weren't made by him. And then there are the persistent calls on his mobile phone.
+
+So what did happen to Nick's beautiful wife?`,
+    "Gillian Flynn",
+    ["Mystery","Thriller"],
+    4,
+   "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043.jpg" 
+  ),
+new BookEntity(
+    "None of this is true",
+    `Celebrating her forty-fifth birthday at her local pub, popular podcaster Alix Summers crosses paths with an unassuming woman called Josie Fair. Josie, it turns out, is also celebrating her forty-fifth birthday. They are, in fact, birthday twins.`,
+    "Lisa Jewell",
+    ["Mystery","Thriller"],
+    4,
+   "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686092508i/62334530.jpg" 
+  ),
+new BookEntity(
+    "Lock Every Door",
+    `No visitors. No nights spent away from the apartment. No disturbing the other residents, all of whom are rich or famous or both. These are the only rules for Jules Larsen's new job as an apartment sitter at the Bartholomew, one of Manhattan's most high-profile and mysterious buildings. Recently heartbroken and just plain broke, Jules is taken in by the splendor of her surroundings and accepts the terms, ready to leave her past life behind.`,
+    "Riley Sager",
+    ["Mystery","Thriller"],
+    3,
+   "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540938359i/41837243.jpg" 
+  ),
+
 ] 
 
