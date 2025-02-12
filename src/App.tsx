@@ -1,4 +1,5 @@
 import Books from "./Books"
+import Footer from "./Footer"
 import Navbar from "./Navbar"
 function App() {
 
@@ -7,11 +8,10 @@ function App() {
     <>
       <div>
         <Navbar />
-
-
         <div>
           <Books />
         </div>
+        <Footer />
       </div>
 
     </>
