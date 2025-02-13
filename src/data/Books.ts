@@ -38,7 +38,7 @@ export const books: BookEntity[] = [
     `On an island off the coast of Ireland, guests gather to celebrate two people joining their lives together as one. The groom: handsome and charming, a rising television star. The bride: smart and ambitious, a magazine publisher. It’s a wedding for a magazine, or for a celebrity: the designer dress, the remote location, the luxe party favors, the boutique whiskey. The cell phone service may be spotty and the waves may be rough, but every detail has been expertly planned and will be expertly executed.`,
     "Lucy Foley",
     ["Mystery","Thriller"],
-    5,
+    4,
     "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591461181i/52656911.jpg"
   ),
   new BookEntity(
