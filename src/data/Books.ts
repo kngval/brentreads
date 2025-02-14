@@ -54,14 +54,6 @@ So what did happen to Nick's beautiful wife?`,
    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043.jpg" 
   ),
 
-  new BookEntity(
-    "The Girl On The Train",
-    `Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...`,
-    "Paula Hawkins",
-    ["Mystery","Thriller"],
-    4,
-   "https://thischickreads.com/wp-content/uploads/2024/11/71vWnStCnEL._AC_UF8941000_QL80_.jpg" 
-  ),
 new BookEntity(
     "None of this is true",
     `Celebrating her forty-fifth birthday at her local pub, popular podcaster Alix Summers crosses paths with an unassuming woman called Josie Fair. Josie, it turns out, is also celebrating her forty-fifth birthday. They are, in fact, birthday twins.`,
@@ -69,6 +61,15 @@ new BookEntity(
     ["Mystery","Thriller"],
     4,
    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686092508i/62334530.jpg" 
+  ),
+
+  new BookEntity(
+    "The Girl On The Train",
+    `Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...`,
+    "Paula Hawkins",
+    ["Mystery","Thriller"],
+    4,
+   "https://thischickreads.com/wp-content/uploads/2024/11/71vWnStCnEL._AC_UF8941000_QL80_.jpg" 
   ),
 new BookEntity(
     "Lock Every Door",
