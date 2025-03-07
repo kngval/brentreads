@@ -34,6 +34,14 @@ export const books: BookEntity[] = [
     "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612020952l/56269064.jpg"
   ),
   new BookEntity(
+    "False Witness",
+`Karin Slaughter’s False Witness is a gripping psychological thriller that follows Leigh Collier, a successful defense attorney with a seemingly stable life. When she is unexpectedly assigned to defend a wealthy client accused of a brutal crime, Leigh realizes he knows about a dark secret from her past—one she and her estranged sister, Callie, have desperately tried to forget. As the case unfolds, Leigh must confront long-buried trauma, navigate complex moral dilemmas, and protect the life she has built while facing the consequences of a past she thought was behind her. Slaughter weaves a tense and emotional narrative, blending legal suspense with deep character exploration.`,
+    "Karin Slaughter",
+    ["Mystery","Thriller"],
+    5,
+    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615850400l/55809780.jpg"
+  ),
+  new BookEntity(
     "The Guest List",
     `On an island off the coast of Ireland, guests gather to celebrate two people joining their lives together as one. The groom: handsome and charming, a rising television star. The bride: smart and ambitious, a magazine publisher. It’s a wedding for a magazine, or for a celebrity: the designer dress, the remote location, the luxe party favors, the boutique whiskey. The cell phone service may be spotty and the waves may be rough, but every detail has been expertly planned and will be expertly executed.`,
     "Lucy Foley",
