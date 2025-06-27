@@ -34,6 +34,14 @@ export const books: BookEntity[] = [
     "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612020952l/56269064.jpg"
   ),
   new BookEntity(
+    "Sharp Objects",
+    `Fresh from a brief stay at a psych hospital, reporter Camille Preaker faces a troubling assignment: she must return to her tiny hometown to cover the unsolved murder of a preteen girl and the disappearance of another. For years, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed in her old bedroom in her family's Victorian mansion, Camille finds herself identifying with the young victims—a bit too strongly. Dogged by her own demons, she must unravel the psychological puzzle of her own past if she wants to get the story—and survive this homecoming.`,
+    "Gillian Flynn",
+    ["Mystery","Thriller","Horror"],
+    5,
+    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891.jpg"
+  ),
+  new BookEntity(
     "False Witness",
 `Karin Slaughter’s False Witness is a gripping psychological thriller that follows Leigh Collier, a successful defense attorney with a seemingly stable life. When she is unexpectedly assigned to defend a wealthy client accused of a brutal crime, Leigh realizes he knows about a dark secret from her past—one she and her estranged sister, Callie, have desperately tried to forget. As the case unfolds, Leigh must confront long-buried trauma, navigate complex moral dilemmas, and protect the life she has built while facing the consequences of a past she thought was behind her. Slaughter weaves a tense and emotional narrative, blending legal suspense with deep character exploration.`,
     "Karin Slaughter",
