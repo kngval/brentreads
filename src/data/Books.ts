@@ -42,14 +42,6 @@ export const books: BookEntity[] = [
     "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891.jpg"
   ),
   new BookEntity(
-    "False Witness",
-`Karin Slaughter’s False Witness is a gripping psychological thriller that follows Leigh Collier, a successful defense attorney with a seemingly stable life. When she is unexpectedly assigned to defend a wealthy client accused of a brutal crime, Leigh realizes he knows about a dark secret from her past—one she and her estranged sister, Callie, have desperately tried to forget. As the case unfolds, Leigh must confront long-buried trauma, navigate complex moral dilemmas, and protect the life she has built while facing the consequences of a past she thought was behind her. Slaughter weaves a tense and emotional narrative, blending legal suspense with deep character exploration.`,
-    "Karin Slaughter",
-    ["Mystery","Thriller"],
-    5,
-    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615850400l/55809780.jpg"
-  ),
-  new BookEntity(
     "The Guest List",
     `On an island off the coast of Ireland, guests gather to celebrate two people joining their lives together as one. The groom: handsome and charming, a rising television star. The bride: smart and ambitious, a magazine publisher. It’s a wedding for a magazine, or for a celebrity: the designer dress, the remote location, the luxe party favors, the boutique whiskey. The cell phone service may be spotty and the waves may be rough, but every detail has been expertly planned and will be expertly executed.`,
     "Lucy Foley",
@@ -79,14 +71,6 @@ new BookEntity(
    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686092508i/62334530.jpg" 
   ),
 
-  new BookEntity(
-    "The Girl On The Train",
-    `Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...`,
-    "Paula Hawkins",
-    ["Mystery","Thriller"],
-    4,
-   "https://thischickreads.com/wp-content/uploads/2024/11/71vWnStCnEL._AC_UF8941000_QL80_.jpg" 
-  ),
 new BookEntity(
     "Lock Every Door",
     `No visitors. No nights spent away from the apartment. No disturbing the other residents, all of whom are rich or famous or both. These are the only rules for Jules Larsen's new job as an apartment sitter at the Bartholomew, one of Manhattan's most high-profile and mysterious buildings. Recently heartbroken and just plain broke, Jules is taken in by the splendor of her surroundings and accepts the terms, ready to leave her past life behind.`,
@@ -95,6 +79,22 @@ new BookEntity(
     3,
    "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540938359i/41837243.jpg" 
   ),
+  new BookEntity(
+    "The Girl On The Train",
+    `Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...`,
+    "Paula Hawkins",
+    ["Mystery","Thriller"],
+    3,
+   "https://thischickreads.com/wp-content/uploads/2024/11/71vWnStCnEL._AC_UF8941000_QL80_.jpg" 
+  ),
 
+  new BookEntity(
+    "False Witness",
+`Karin Slaughter’s False Witness is a gripping psychological thriller that follows Leigh Collier, a successful defense attorney with a seemingly stable life. When she is unexpectedly assigned to defend a wealthy client accused of a brutal crime, Leigh realizes he knows about a dark secret from her past—one she and her estranged sister, Callie, have desperately tried to forget. As the case unfolds, Leigh must confront long-buried trauma, navigate complex moral dilemmas, and protect the life she has built while facing the consequences of a past she thought was behind her. Slaughter weaves a tense and emotional narrative, blending legal suspense with deep character exploration.`,
+    "Karin Slaughter",
+    ["Mystery","Thriller"],
+    3,
+    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615850400l/55809780.jpg"
+  ),
 ] 
 
