@@ -96,5 +96,13 @@ new BookEntity(
     3,
     "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615850400l/55809780.jpg"
   ),
+  new BookEntity(
+    "The House Across The Lake",
+    "Casey Fletcher, a recently widowed actress trying to escape a streak of bad press, has retreated to the peace and quiet of her family’s lake house in Vermont. Armed with a pair of binoculars and several bottles of liquor, she passes the time watching Tom and Katherine Royce, the glamorous couple who live in the house across the lake. They make for good viewing—a tech innovator, Tom is rich; and a former model, Katherine is gorgeous. ",
+    "Riley Sager",
+    ["Mystery","Thriller"],
+    2,
+    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639618949l/58909880.jpg"
+  ),
 ] 
 
