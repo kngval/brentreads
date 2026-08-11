@@ -10,7 +10,7 @@ export const books: BookEntity[] = [
     "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668075760/pet-sematary-9781668075760_hr.jpg"
   ),
   new BookEntity(
-    "The Last Time I Lied",
+    "The Last Time I Lied", 
     "Fifteen years ago, summer camper Emma Davis watched sleepily as her three cabin mates snuck out of their cabin in the dead of night. The last she--and anyone--saw of them was Vivian closing the cabin door behind her, hushing Emma with a finger pressed to her lips.",
     "Riley Sager",
     ["Mystery", "Thriller"],
@@ -89,12 +89,18 @@ So what did happen to Nick's beautiful wife?`,
     "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1540938359i/41837243.jpg"
   ),
   new BookEntity(
-    "The Girl On The Train",
-    `Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...`,
-    "Paula Hawkins",
-    ["Mystery", "Thriller"],
-    2,
-    "https://thischickreads.com/wp-content/uploads/2024/11/71vWnStCnEL._AC_UF8941000_QL80_.jpg"
+    "Pretty Girls",
+    `Twenty years ago Claire Scott's eldest sister, Julia, went missing. No one knew where she went - no note, no body. It was a mystery that was never solved and it tore her family apart.
+
+Now another girl has disappeared, with chilling echoes of the past. And it seems that she might not be the only one.
+
+Claire is convinced Julia's disappearance is linked.
+
+But when she begins to learn the truth about her sister, she is confronted with a shocking discovery, and nothing will ever be the same...`,
+    "Karin Slaughter",
+    ["Mystery", "Thriller"], 
+    3,
+    "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1432205734i/25574782.jpg"
   ),
 
   new BookEntity(
