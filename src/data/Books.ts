@@ -1,5 +1,14 @@
 import { BookEntity } from "./BookEntity";
 export const books: BookEntity[] = [
+  
+  new BookEntity(
+    "Pet Sematary",
+    "When Dr. Louis Creed takes a new job and moves his family to the idyllic and rural town of Ludlow, Maine, this new beginning seems too good to be true. Yet despite Ludlow’s tranquility, there’s an undercurrent of danger that exists here. Those trucks on the road outside the Creed’s beautiful old home travel by just a little too quickly, for one thing…as is evidenced by the makeshift pet cemetery out back in the nearby woods. Then there are the warnings to Louis both real and from the depths of his nightmares that he should not venture beyond the borders of this little graveyard. A blood-chilling truth is hidden there—one more terrifying than death itself, and hideously more powerful. An ominous fate befalls anyone who dares tamper with this forbidden place, as Louis is about to discover for himself…",
+    "Stephen King",
+    ["Horror", "Thriller"],
+    5,
+    "https://upload.wikimedia.org/wikipedia/commons/2/24/Pet_Sematary_%281983%29_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+  ),
   new BookEntity(
     "The Last Time I Lied",
     "Fifteen years ago, summer camper Emma Davis watched sleepily as her three cabin mates snuck out of their cabin in the dead of night. The last she--and anyone--saw of them was Vivian closing the cabin door behind her, hushing Emma with a finger pressed to her lips.",
