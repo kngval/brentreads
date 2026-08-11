@@ -7,7 +7,7 @@ export const books: BookEntity[] = [
     "Stephen King",
     ["Horror", "Thriller"],
     5,
-    "https://upload.wikimedia.org/wikipedia/commons/2/24/Pet_Sematary_%281983%29_front_cover%2C_first_edition.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+    "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668075760/pet-sematary-9781668075760_hr.jpg"
   ),
   new BookEntity(
     "The Last Time I Lied",
