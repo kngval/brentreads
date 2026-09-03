@@ -9,6 +9,20 @@ export const books: BookEntity[] = [
     5,
     "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781668075760/pet-sematary-9781668075760_hr.jpg"
   ),
+
+  new BookEntity(
+    "Home Before Dark",
+    `What was it like? Living in that house.
+
+Maggie Holt is used to such questions. Twenty-five years ago, she and her parents, Ewan and Jess, moved into Baneberry Hall, a rambling Victorian estate in the Vermont woods. They spent three weeks there before fleeing in the dead of night, an ordeal Ewan later recounted in a nonfiction book called House of Horrors. His tale of ghostly happenings and encounters with malevolent spirits became a worldwide phenomenon, rivaling The Amityville Horror in popularity—and skepticism.
+
+Today, Maggie is a restorer of old homes and too young to remember any of the events mentioned in her father’s book. But she also doesn’t believe a word of it. Ghosts, after all, don’t exist. When Maggie inherits Baneberry Hall after her father’s death, she returns to renovate the place to prepare it for sale. But her homecoming is anything but warm. People from the past, chronicled in House of Horrors, lurk in the shadows. And locals aren’t thrilled that their small town has been made infamous thanks to Maggie’s father. Even more unnerving is Baneberry Hall itself—a place filled with relics from another era that hint at a history of dark deeds. As Maggie experiences strange occurrences straight out of her father’s book, she starts to believe that what he wrote was more fact than fiction.
+`,
+    "Riley Sager",
+    ["Horror","Myster", "Thriller"],
+    5,
+    "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1571683410l/50833559.jpg"
+  ),
   new BookEntity(
     "The Last Time I Lied", 
     "Fifteen years ago, summer camper Emma Davis watched sleepily as her three cabin mates snuck out of their cabin in the dead of night. The last she--and anyone--saw of them was Vivian closing the cabin door behind her, hushing Emma with a finger pressed to her lips.",
